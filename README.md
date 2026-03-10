@@ -1,0 +1,2 @@
+# curiosity--project-chimera--modular-core-prototype
+Begin designing the core orchestrator module of the Autonomy Engine in a radically modular way, such that its components (data ingestor, strategy evaluator, trade executor, capital allocator) can be developed and tested incrementally on our current pathetic hardware. This creates a tangible asset—a codebase—that increases in value and capability in
